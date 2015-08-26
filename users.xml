@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user online="0">
+		<name>Sarah</name>
+		<password>111</password>
+		<friends>Mo,Wang</friends>
+	</user>
+	<user online="0">
+		<name>Mo</name>
+		<password>111</password>
+		<friends>,Sarah</friends>
+	</user>
+	<user online="1">
+		<name>Wang</name>
+		<password>111</password>
+		<friends>,Sarah</friends>
+	</user><user online="0"><name>xu</name><password>1</password><friends/></user><user newMessage="" online="1"><name>xutingting</name><password>1</password><friend/></user></users>
